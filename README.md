@@ -1,2 +1,2 @@
 # joinclass
-Aplicación JoinClass de gestión de academias
+Aplicación webb de gestión de academias, en HTML, JavaScript y CSS, con el framework de VueJS.
